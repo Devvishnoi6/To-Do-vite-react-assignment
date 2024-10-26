@@ -6,7 +6,7 @@ This is a simple To-Do List application built using React and Vite.
 
 ## How to Run the Application
 
-1. Clone the repository: `git clone : https://github.com/Devvishnoi.6/todo-list-app.git`
+1. Clone the repository: `git clone : (https://github.com/Devvishnoi6/To-Do-vite-react-assignment)`
 2. Navigate to the project directory: `cd To-Do list project`
 3. Install dependencies: `npm install`
 4. Run the application: `npm run dev`
