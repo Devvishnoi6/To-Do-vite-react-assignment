@@ -5,6 +5,13 @@ body{
   align-items: center;
   background-color: #64748b;
 }
+a{
+  display:flex;
+  justify-content: left;
+  align-items: flex-start;
+  color: black;
+  
+}
 .header{
   background-color: white;
   color: rgb(71 85 105);
